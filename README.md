@@ -9,12 +9,7 @@
   var. Ben en çok, direkt derslerin uygulamalı bir şekilde
   öğrencilere öğretilmesi kısmını beğeniyorum.
 
-     Ben Gamze, Türkiye'de yaşayan non-binary bir bireyim.
-  Amacım yönelimim ve cinsiyetim önemsenmeksizin oyun dünyasında
-  iyi şeyler başarabilmek.
-
-   Saygılar ve sevgiler.
-  
+    
 
 <!---
 honeydivaa/honeydivaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
